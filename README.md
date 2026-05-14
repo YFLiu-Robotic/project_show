@@ -24,7 +24,7 @@
 
 ### 2. 仿真-数据增强展示
 
-该部分展示仿真场景中的数据增强效果。
+该部分展示仿真场景中的不同机器人的任务执行效果。
 
 - [example_1.mp4](<2. 仿真-数据增强展示/example_1.mp4>)
 - [example_2.mp4](<2. 仿真-数据增强展示/example_2.mp4>)
@@ -34,13 +34,13 @@
 
 ### 3. 基于强化学习的 Mano 轨迹重定向
 
-该部分展示基于强化学习策略将 Mano 轨迹重定向到机械臂夹爪的结果。
+该部分展示基于强化学习策略将 Mano 轨迹重定向到机械臂夹爪。
 
 - [policy_replay.webm](<3. 基于强化学习的 Mano 轨迹重定向/policy_replay.webm>)
 
 ### 4. 基于 pi0.5VLA 模型的 SO101 机械臂和 UR5 机械臂后训练和真机部署
 
-该部分展示 VLA 模型后训练、观测生成、推理和真机部署效果，并包含 SO101 机械臂抓取任务相关报告。
+该部分展示 VLA 模型后训练、数据增强、推理和真机部署效果，并包含 SO101 机械臂抓取任务相关报告。
 
 - [基于 cosmos-transfer 生成新的观测.mp4](<4. 基于 pi0.5VLA 模型的 SO101 机械臂和 UR5 机械臂后训练和真机部署/cosmos-transfer_dataset/基于cosmos-transfer生成新的观测.mp4>)
 - [pick_the_white_box.mp4](<4. 基于 pi0.5VLA 模型的 SO101 机械臂和 UR5 机械臂后训练和真机部署/Inference/pick_the_white_box.mp4>)
