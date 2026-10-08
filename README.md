@@ -62,7 +62,8 @@
 <a id="manipulation"></a>
 ## 4. 强化学习-机械臂 + 灵巧手项目展示
 
-### HandMimicX：从人类 Ego 视频学习灵巧操作 https://anonymous.4open.science/w/handmimicx/index.html
+### HandMimicX：从人类 Ego 视频学习灵巧操作 
+### 网页展示：https://anonymous.4open.science/w/handmimicx/index.html
 
 项目背景：未来清研智能科技有限公司（深圳），2026.05–2026.09。共同第一作者，负责强化学习训练与真机部署；论文 ICRA 在投。
 
